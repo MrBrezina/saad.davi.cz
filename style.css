@@ -1,0 +1,178 @@
+body {
+
+	background:	url(img/paper.png);
+	font:		12px/16px sans-serif;
+}
+
+span {
+
+	display:	none;
+}
+
+h1 {
+
+	display:	block;
+	width:		86px;
+	height:		82px;
+	
+	position:	absolute;
+	top:		50px;
+	left:		620px;
+	
+	background:	url(img/logo.png);
+}
+
+h2 {
+
+	font:		16px/19px sans-serif;
+	font-weight:	bold;
+	
+	color:		#FF9933;
+}
+
+h3 {
+
+	font:		13px/19px sans-serif;
+	font-weight:	bold;
+}
+
+div.panel {
+
+	background:		url(img/stripe.png) top right repeat-y;
+	background-color:	white;
+	
+	width:		409px;
+	padding:	0px;
+	
+	position:	absolute;
+	top:		60px;
+	left:		200px;
+	
+	display:	none;
+}
+
+ul#menu {
+
+	position:	absolute;
+	left:		600px;
+	top:		180px;
+	
+	list-style:	none;
+	margin:		0px;
+	padding:	0px;
+	
+	z-index:	10;
+}
+
+ul#menu li {
+
+	margin:		0px;
+	padding:	0px;
+}
+
+ul#menu li a {
+
+	display:	block;
+	width:		85px;
+	height:		41px;
+	
+	margin-bottom:	9px;
+}
+
+ul#menu li a:hover {
+
+	background-position: -85px 0px;
+}
+
+li.aktuality 	a { background: url(img/aktuality.png);	}
+li.saad 	a { background: url(img/SAAD.png);	}
+li.casopis 	a { background: url(img/casopis.png);	}
+li.prihlasky 	a { background: url(img/prihlasky.png);	}
+
+body.aktuality li.aktuality a, body.saad li.saad a, body.casopis li.casopis a,
+body.prihlasky li.prihlasky a { background-position: -170px 0px !important; }
+
+p#copyright {
+
+	position:	absolute;
+	left:		620px;
+	top:		380px;
+}
+
+p#copyright a {
+
+	display:	block;
+	width:		38px;
+	height:		32px;
+	
+	background:	url(img/DAVI.png);
+}
+
+p#copyright a:hover {
+
+	background-position:	-38px 0px;
+}
+
+div.td {
+
+	width:		409px;
+	padding-top:	 60px;
+}
+
+div.bd {
+
+	width:		360px;
+	min-height:	300px;
+	
+	padding-bottom:	40px;
+	
+	padding-left:	20px;
+	padding-right:	29px;
+	
+	background:	url(img/bottom.png) bottom left no-repeat;
+}
+
+#saad 		.td { background: url(img/header1.jpg) top left no-repeat; }
+#casopis 	.td { background: url(img/header2.jpg) top left no-repeat; }
+#aktuality 	.td { background: url(img/header3.jpg) top left no-repeat; }
+#prihlasky 	.td { background: url(img/header4.jpg) top left no-repeat; }
+
+body.saad #saad, body.casopis #casopis, body.aktuality #aktuality,
+body.prihlasky #prihlasky { display: block; }
+
+a:hover {
+
+	color:		red;
+}
+
+ul, ol {
+
+	padding-left:	4ex;
+	margin-left:	0ex;
+}
+
+/* IE */
+
+* html div.bd {
+
+	height:		400px;
+	width:		409px;
+	z-index:	20;
+}
+
+* html p#copyright {
+
+	left:		620px;
+	top:		395px;
+}
+
+* html h1 {
+
+	top:		65px;
+	left:		620px;
+}
+
+* html div.td {
+
+	padding-top:	 75px;
+}
