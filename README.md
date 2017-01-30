@@ -12,3 +12,4 @@ Hlavičku dokumentů (text mezi `---` na začátku dokumentu) neměňte. Pro for
 
 Soubor změníte tak, že na něj kliknete v seznamu výše a potom kliknete na ikonu tužky v pravém horním rohu. Krátce po uložení, se změny projeví na webu.
 
+Nová záložka se přidá vytvořením dalšího souboru s příponou `.md`, např. `poznamky.md`, se správným nastavením hlavičky a obsahu.
