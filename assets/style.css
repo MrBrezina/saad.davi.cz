@@ -64,6 +64,7 @@ ul#menu li a {
     text-decoration: none;
     padding: 15px 30px;
     margin: 15px;
+    border: 0;
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
 }
@@ -71,6 +72,7 @@ ul#menu li a {
 ul#menu li a:hover {
     color: #000;
     text-decoration: none;
+    border: 0;
     background: rgb(198, 195, 208);
 }
 
