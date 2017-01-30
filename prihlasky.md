@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /prihlasky/
 title: Přihlášky
 ---
 
