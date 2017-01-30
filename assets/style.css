@@ -1,0 +1,95 @@
+body {
+    background: rgb(174, 171, 186);
+    font-size: 22px;
+    font-family: Yrsa, Georgia, serif;
+}
+
+h1 {
+    display: block;
+    width: 86px;
+    height: 82px;
+    position: absolute;
+    top: 90px;
+    left: 955px;
+    background: url(logo.png);
+}
+
+h1 span {
+    display: none;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: normal;
+    margin-bottom: 2em;
+}
+
+h3 {
+    font-size: 115%;
+    font-weight: bold;
+}
+
+div.panel {
+    display: block;
+    box-shadow: 15px 0 rgb(189, 186, 199);
+    background: white;
+    top: 80px;
+    left: 200px;
+    width: 600px;
+    min-height: 700px;
+    padding: 20px 60px 20px;
+    position: absolute;
+}
+
+ul#menu {
+    position: absolute;
+    left: 905px;
+    top: 220px;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    z-index: 10;
+}
+
+ul#menu li {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul#menu li a {
+    display: block;
+    color: #000;
+    background: rgb(189, 186, 199);
+    display: block;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin: 15px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+ul#menu li a:hover {
+    color: #000;
+    text-decoration: none;
+    background: rgb(198, 195, 208);
+}
+
+ul#menu li a.active {
+    background: white;
+}
+
+ul,
+ol {
+    padding-left: 1em;
+    margin-left: -1em;
+}
+
+a {
+    color: #84BD00;
+    text-decoration: none;
+    border-bottom: 1px dashed #84BD00;
+}
+
+a:hover {
+    border-bottom: 1px solid #84BD00;
+}

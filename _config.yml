@@ -1,0 +1,15 @@
+# Permalinks
+
+# Setup
+title: SAAD — Sdružení pro alergické a astmatické děti
+description: SAAD — Sdružení pro alergické a astmatické děti
+url: http://saad.davi.cz
+baseurl: ""
+
+# About/contact
+author:
+  name: David Březina
+  url: https://mrbrezina.com
+
+# Build settings
+markdown: kramdown

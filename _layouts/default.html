@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %}
+    </title>
+    <meta name="description" content="{{ site.description }}">
+    <link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/print.css" type="text/css" media="print">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+</head>
+
+<body class="{{ page.type }}">
+    <h1><span>
+        {% if page.title %}
+            {{ page.title }}
+        {% else %}
+            {{ site.title }}
+        {% endif %}
+    </span></h1>
+    <ul id="menu">
+        {% for node in site.pages %} {% if page.url == node.url %}
+        <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+        <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %} {% endfor %}
+    </ul>
+    <div class="panel">
+        {{ content }}
+    </div>
+</body>
+
+</html>
