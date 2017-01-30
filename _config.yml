@@ -13,3 +13,14 @@ author:
 
 # Build settings
 markdown: kramdown
+
+# Show pages in navigation
+navigation:
+  - title: SAAD
+    url: /
+  - title: Aktuality
+    url: /aktuality/
+  - title: Časopis
+    url: /casopis/
+  - title: Přihlášky
+    url: /prihlasky/

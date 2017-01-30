@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /aktuality/
 title: Aktuality
 ---
 

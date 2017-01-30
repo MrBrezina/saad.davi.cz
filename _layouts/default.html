@@ -25,7 +25,7 @@
     </span></h1>
 
     <ul id="menu">
-        {% for node in site.pages %}
+        {% for node in site.navigation %}
         <!-- {{page.url}} {{node.url}} -->
         {% if page.url == node.url %}
         <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
