@@ -19,9 +19,9 @@ Komise pro klimatické pobyty SAAD Brno
 
 ### Letní klimatické pobyty v roce 2016:
 
-* Přímořský pobyt v Itálii, Lido Adriano - 8\. 7\. až 24\. 7\. 2016
-* Bohdalov – RS Astrál – 2. 7\. až 16. 7. 2016
-* Staré Město pod Sněžníkem - RS Uničovka – 30. 7\. až 13. 8. 2016
+* Bohdalov - RS Astrál - 1. 7. až 15. 7. 2017
+* Staré Město pod Sněžníkem - RS Uničovka - 29. 7. až 12. 8. 2017
+* Přímořský pobyt v Itálii, Caorle - 18. 8. - 3. 9. 2017
 
 Dotazy vám mohou být zodpovězeny _pouze_ v úředních hodinách ve středu od 16 do 17 hod. na tel č. 541 552 490 nebo na adrese:
 
