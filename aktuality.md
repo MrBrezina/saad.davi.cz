@@ -17,7 +17,7 @@ MUDr. Helena Zejdlová-Melicharová
 alergologie, Zlín  
 Komise pro klimatické pobyty SAAD Brno  
 
-### Letní klimatické pobyty v roce 2016:
+### Letní klimatické pobyty v roce 2017:
 
 * Bohdalov - RS Astrál - 1. 7. až 15. 7. 2017
 * Staré Město pod Sněžníkem - RS Uničovka - 29. 7. až 12. 8. 2017
