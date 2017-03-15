@@ -20,7 +20,5 @@ navigation:
     url: /
   - title: Aktuality
     url: /aktuality/
-  - title: Časopis
-    url: /casopis/
   - title: Přihlášky
     url: /prihlasky/
