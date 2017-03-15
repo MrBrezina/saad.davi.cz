@@ -27,7 +27,7 @@ SAAD je sdružení rodičů, pracovníků ve zdravotnictví a všech, kteří s
 * Ve spolupráci s lékaři, pedagogy, psychology, sociology a rodiči postižených dětí se podílet na prevenci a léčbě alergií.
 * Používat dotace, členské příspěvky a dary do pobytů v přírodě (včetně speleoterapie), případně výměnných pobytů mimo území ČR, diagnostických pomůcek při léčbě astmatu, na úhradu administrativní agendy, vydávání pravidelných tiskovin s námětem alergie, astma, jejich terapie a prevence.
 
-SAAD je dobrovolná a nevýdělečná organizace, která zve ke spolupráci všechny, kteří nám chtějí pomoci. Dotazy vám rádi zodpovíme každou středu od 16 do 17 hodin na telefonním čísle 541 552 490 nebo na adrese:
+SAAD je dobrovolná a nevýdělečná organizace, která zve ke spolupráci všechny, kteří nám chtějí pomoci. Dotazy vám rádi zodpovíme na telefonním čísle 737 470 336 nebo na adrese:
 
 **SAAD**  
 **Zahradníkova 2-8**  
