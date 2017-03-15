@@ -23,7 +23,7 @@ Komise pro klimatické pobyty SAAD Brno
 * Staré Město pod Sněžníkem - RS Uničovka - 29. 7. až 12. 8. 2017
 * Přímořský pobyt v Itálii, Caorle - 18. 8. - 3. 9. 2017
 
-Dotazy vám mohou být zodpovězeny _pouze_ v úředních hodinách ve středu od 16 do 17 hod. na tel č. 541 552 490 nebo na adrese:
+Dotazy vám mohou být zodpovězeny na tel č. 737 470 336 nebo na adrese:
 
 **SAAD**  
 **Zahradníkova 2-8**  
