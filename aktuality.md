@@ -8,8 +8,7 @@ title: Aktuality
 ## Aktuality
 
 ### Pozvánka na valnou hromadu 
-Sdružení pro alergické a astmatické děti z.s., 
-
+Pozvánka na VH Sdružení pro alergické a astmatické děti z.s., 
 která se koná dne 5. dubna 2017 od 17:00 hodin
 v zasedací místnosti polikliniky Zahradníkova 2/8, Brno
 
