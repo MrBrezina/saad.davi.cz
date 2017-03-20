@@ -9,18 +9,19 @@ title: Aktuality
 
 ### Pozvánka na valnou hromadu 
 Sdružení pro alergické a astmatické děti z.s., 
+
 která se koná dne 5. dubna 2017 od 17:00 hodin
 v zasedací místnosti polikliniky Zahradníkova 2/8, Brno
 
 Program jednání:
 
-1. Zahájení valné hromady SAAD
-2. Schválení programu a jednacího řádu VH
-3. Volba mandátové a návrhové komise a ověřovatele zápisu
-4. Zpráva o činnosti a hospodaření, zpráva auditora 
-5. Zpráva mandátové komise
-6. Diskuse
-7. Návrh usnesení valné hromady SAAD a závěr 
+  1. Zahájení valné hromady SAAD
+  2. Schválení programu a jednacího řádu VH
+  3. Volba mandátové a návrhové komise a ověřovatele zápisu
+  4. Zpráva o činnosti a hospodaření, zpráva auditora 
+  5. Zpráva mandátové komise
+  6. Diskuse
+  7. Návrh usnesení valné hromady SAAD a závěr 
 
 V Brně dne 20. 3. 2017, výkonný výbor SAAD
 
