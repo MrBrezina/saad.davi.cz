@@ -7,7 +7,11 @@ title: Aktuality
 
 ## Aktuality
 
-### Letní klimatické pobyty
+### Letní klimatické pobyty v roce 2018:
+
+* Staré Město pod Sněžníkem - RS Uničovka - 30. 6. až 14. 7. 2018
+
+
 
 Vážení rodiče,
 
@@ -17,9 +21,6 @@ MUDr. Helena Zejdlová-Melicharová
 alergologie, Zlín  
 Komise pro klimatické pobyty SAAD Brno  
 
-### Letní klimatické pobyty v roce 2018:
-
-* Staré Město pod Sněžníkem - RS Uničovka - 30. 6. až 14. 7. 2018
 
 Dotazy vám mohou být zodpovězeny na tel č. 737 470 336 nebo na adrese:
 
