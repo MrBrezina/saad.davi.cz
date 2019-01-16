@@ -6,7 +6,7 @@ title: Přihlášky
 
 ## Přihlášky
 
-Přihlášky lze zaslat na e-mail: <saadbrno@seznam.cz>.
+Přihlášky lze zaslat na e-mail: <misase@seznam.cz>.
 
 ### Přihláška ke klimatickému pobytu
 
