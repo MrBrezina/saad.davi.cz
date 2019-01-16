@@ -7,9 +7,9 @@ title: Aktuality
 
 ## Aktuality
 
-### Letní klimatické pobyty v roce 2018:
+### Letní klimatické pobyty v roce 2019:
 
-* Staré Město pod Sněžníkem - RS Uničovka - 30. 6. až 14. 7. 2018
+* RS Borovinka - 10. 7. až 20. 7. 2019
 
 
 
@@ -22,10 +22,10 @@ alergologie, Zlín
 Komise pro klimatické pobyty SAAD Brno  
 
 
-Dotazy vám mohou být zodpovězeny na tel č. 737 470 336 nebo na adrese:
+Dotazy vám mohou být zodpovězeny na tel č. 602 930 313 nebo na adrese:
 
 **SAAD**  
 **Zahradníkova 2-8**  
 **611 41 Brno**
 
-**e-mail: <saadbrno@seznam.cz>**
+**e-mail: <misase@seznam.cz>**
