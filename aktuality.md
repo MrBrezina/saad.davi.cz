@@ -9,7 +9,7 @@ title: Aktuality
 
 ### Letní klimatické pobyty v roce 2019:
 
-* RS Borovinka - 10. 7. až 20. 7. 2019 - OBSAZENO
+* RS Borovinka - 10. 7. až 20. 7. 2019 - příjem přihlášek UKONČEN
 
 
 
